@@ -15,3 +15,6 @@ Asked 2026-10-31 (via main session), for the trip ideas shortlist:
 3. What kind of trip? e.g. cities & food, beaches, nature/hiking, culture/history (default: mix of city + nature)
 4. Rough budget per person, excluding flights or all-in? (default: mid-range, ~€150–200/day per person on the ground)
 5. Passport(s) held by you and your travel companion? (default: none — needed for entry rules)
+
+## To-do (parked by the user 2026-10-31)
+- [ ] User to answer the 5 questions above → then resume the trip ideas shortlist.

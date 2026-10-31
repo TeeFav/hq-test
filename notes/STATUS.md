@@ -6,11 +6,14 @@ _Last updated: 2026-10-31_
 
 | Task | Owner | Waiting on user? | Next |
 |---|---|---|---|
-| Trip ideas shortlist (relay test) | research | yes | User answers 5 questions → research 4–6 destinations |
+| Trip ideas shortlist (relay test) | research | yes (parked as to-do) | User answers 5 questions → continue research agent af8add81448d9f822 (or a fresh run) with answers verbatim |
 | Setup: choose visual style | main | yes | Show 3–4 style options |
 | Setup: build tracker pages | main | after style pick | Build first page, get OK, build the rest |
 
 ## Waiting on the user
+
+_Parked as to-dos by the user (2026-10-31): answer when ready; setup continues meanwhile. Also seeded on the Trip to-do board once built._
+
 
 - **research** asks (trip ideas shortlist): home airport; when/how long; kind of trip; budget per person; passports held. Full list in `notes/research.md`.
 
