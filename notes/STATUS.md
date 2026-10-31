@@ -6,13 +6,13 @@ _Last updated: 2026-10-31_
 
 | Task | Owner | Waiting on user? | Next |
 |---|---|---|---|
-| Setup: relay test run | main → research | — | Run one small task, relay its question |
+| Trip ideas shortlist (relay test) | research | yes | User answers 5 questions → research 4–6 destinations |
 | Setup: choose visual style | main | yes | Show 3–4 style options |
 | Setup: build tracker pages | main | after style pick | Build first page, get OK, build the rest |
 
 ## Waiting on the user
 
-- (nothing yet)
+- **research** asks (trip ideas shortlist): home airport; when/how long; kind of trip; budget per person; passports held. Full list in `notes/research.md`.
 
 ## Trips
 
