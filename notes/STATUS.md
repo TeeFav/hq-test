@@ -7,7 +7,7 @@ _Last updated: 2026-10-31_
 | Task | Owner | Waiting on user? | Next |
 |---|---|---|---|
 | Trip ideas shortlist (relay test) | research | yes (parked as to-do) | User answers 5 questions → continue research agent af8add81448d9f822 (or a fresh run) with answers verbatim |
-| Setup: choose visual style | main | yes | Show 3–4 style options |
+| Setup: choose visual style | main | yes | User picks A–D on https://claude.ai/artifact/F8r2qEciRLFsKQUyTGGwnv + light/dark choice |
 | Setup: build tracker pages | main | after style pick | Build first page, get OK, build the rest |
 
 ## Waiting on the user
@@ -29,6 +29,7 @@ _Parked as to-dos by the user (2026-10-31): answer when ready; setup continues m
 
 | Page | Link |
 |---|---|
+| Style picker (setup only) | https://claude.ai/artifact/F8r2qEciRLFsKQUyTGGwnv |
 | Trip to-do board | (not built yet) |
 | Bookings & budget | (not built yet) |
 | Ideas & wishlist | (not built yet) |
